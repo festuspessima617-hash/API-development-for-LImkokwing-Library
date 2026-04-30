@@ -22,19 +22,13 @@ The system simulates how a real library operates by keeping track of book availa
 ## Technologies Used
 
 * Python (Core Python)
-* No external frameworks required
+
 
 ---
 
 ##  How to Run the Program
 
-### 1. Install Python
-
-Make sure Python is installed on your computer.
-
-### 2. Run the program
-
-Open your terminal or VS Code terminal and type:
+*Open terminal and run the code 
 
 ```
 python main.py
@@ -61,28 +55,13 @@ python main.py
 
 ---
 
-## Limitations
-
-* Data is stored temporarily (not saved after program closes)
-* No graphical user interface (CLI only)
-
----
-
-## Future Improvements
-
-* Add database integration (MySQL or SQLite)
-* Develop a web or mobile interface
-* Add user authentication system
-* Send notifications for due dates
+## Screenshoots
+<img width="1366" height="768" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/63adde56-ebed-4214-a721-c780cf872898" />
+<img width="1366" height="768" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/e296a8e7-2b7c-4892-a62e-09a70f1a7738" />
 
 ---
-
 ## 👤Author
 
 **Festus Pessima**
 
----
 
-##  Note
-
-This project was developed for academic purposes to demonstrate understanding of basic programming concepts and system design.
