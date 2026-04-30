@@ -1,4 +1,4 @@
-#  Library Management System
+# Limkokwing Library
 
 ## Description
 
