@@ -95,7 +95,7 @@ def check_overdue():
 
 def menu():
     while True:
-        print("\n===== LIBRARY MENU =====")
+        print("\n=====  LIMKOKWING LIBRARY =====")
         print("1. View Books")
         print("2. Borrow Book")
         print("3. Return Book")
